@@ -1,0 +1,19 @@
+[
+    {
+        "username": "Jane Smith",
+        "crypto": "bn1x2zuk2es",
+        "amount": 500,
+        "price": 0.07473695159211236,
+        "total": 37.368475796056174,
+        "timestamp": "2024-06-11 12:47:22"
+    },
+    {
+        "username": "Jane Smith",
+        "type": "buy",
+        "crypto": "y8hj1tf4ped",
+        "amount": 50,
+        "price": 0.8283189859640965,
+        "total": 41.41594929820482,
+        "date": "2024-06-11 13:25:24"
+    }
+]
